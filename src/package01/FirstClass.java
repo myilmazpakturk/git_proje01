@@ -6,6 +6,8 @@ public class FirstClass {
 		System.out.println("ilk commit from local repository");
 		System.out.println("ikinci commit from local repository");
 
+		System.out.println("master dan yeni bir commit");
+		System.out.println("yeni olusturulan branch'dan commit");
 	}
 
 }
