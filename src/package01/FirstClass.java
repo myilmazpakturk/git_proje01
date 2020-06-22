@@ -20,6 +20,8 @@ public class FirstClass {
 		System.out.println("master dan yeni bir commit");
 		System.out.println("yeni olusturulan branch'dan commit");
 		
+		System.out.println("featureM de ilk commitim");
+		
 
 	}
 
